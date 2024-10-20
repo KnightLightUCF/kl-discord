@@ -1,0 +1,22 @@
+[
+  {
+    "id": "meeting_1",
+    "creator": "359328257314914305",
+    "name": "Discussion with Alex",
+    "time": "2024-10-20 12:02",
+    "attendees": [
+      "359328257314914305"
+    ]
+  },
+  {
+    "id": "meeting_2",
+    "creator": "359328257314914305",
+    "name": "Meeting With Alex",
+    "time": "2024-10-20 00:03",
+    "attendees": [
+      "359328257314914305",
+      "249373411762110467"
+    ],
+    "voiceChannelId": "1297409696545898560"
+  }
+]
